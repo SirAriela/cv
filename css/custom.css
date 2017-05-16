@@ -1,0 +1,73 @@
+body {
+    font-family: 'Open Sans','sans-serif';
+}
+
+#cv {
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: -1xp 2xp 5xp 0xp rgba(0,0,0.75);
+}
+#profile {
+    background: #1e1e1e;
+    color: #a5a5a5;
+    padding: 25xp; 
+}
+#intro {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #a5a5a5;
+}
+#intro img {
+    border-radius: 50%;
+    width: 200px;
+    height:200px;   
+    margin-right: 25px;
+    margin-left: 25px;
+}
+#intro header{
+    margin-right: 25px;
+    margin: 0;
+    text-transform: uppercase;
+}
+#intro header h1 {
+    font-weight: 300;
+    color: #fff;
+    font-size: 25px;
+    margin: 0;
+}
+#intro header h2 {
+    font-weight: 500;
+    color: #d07628;
+    font-size: 40px;
+    margin: 0;
+}
+#intro header h3 {
+    font-weight: 400;
+    color: #fff;
+    margin: 0;
+}
+#about {
+    border-left: 2px solid #a5a5a5;
+    padding: 15px;
+    width: 300px;
+    margin-left: 20px;
+}
+#contact_info {
+    display: flex;
+}
+#contact_info ul {
+    list-style: none;
+}
+#contact_info ul:first-child {
+    font-weight: 600;
+}
+#social_network{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+#social_network a {
+    color: white;
+    text-decoration: none;
+}
