@@ -71,3 +71,26 @@ body {
     color: white;
     text-decoration: none;
 }
+#Expirience h2{
+    color: cornflowerblue;
+    padding: 25xp; 
+}
+#workExpirince{
+    display: flex;
+}
+#workExpirince ul{
+    list-style: none;
+}
+#ProSkills{
+    display : inline-block;
+    width : 500xp;
+    height : 200dp;
+    background-color: black;
+    display: flex;
+    color: white;
+    align-content:flex-end; 
+
+}
+#ProSkills h1{
+    color: wheat;
+}
