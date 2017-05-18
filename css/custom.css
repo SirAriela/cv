@@ -82,15 +82,25 @@ body {
     list-style: none;
 }
 #ProSkills{
-    display : inline-block;
-    width : 500xp;
-    height : 200dp;
     background-color: black;
-    display: flex;
     color: white;
-    align-content:flex-end; 
-
+    display: flex;
+    margin-left: 50px;
+}
+#ProSkills ul{
+    text-decoration: none;
 }
 #ProSkills h1{
     color: wheat;
+    break-after: 
+}
+#PerSkills{
+    display: flex;
+    margin-left: 526px;
+    background-color: black;
+    color: white;
+}
+#PerSkills ul{
+    list-style: none;
+    
 }
