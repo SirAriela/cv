@@ -67,40 +67,37 @@ body {
     justify-content: space-between;
     list-style: none;
 }
-#social_network a {
+#social_network a{
     color: white;
     text-decoration: none;
 }
-#Expirience h2{
+#Expirience h3{
     color: cornflowerblue;
-    padding: 25xp; 
+    margin: 25xp; 
+}
+#Expirience p{
+    font-size: 12px;
+}
+#Expirience{
+    display: flex;
 }
 #workExpirince{
-    display: flex;
+     display: flex;
 }
 #workExpirince ul{
     list-style: none;
+     text-decoration: none;
 }
-#ProSkills{
-    background-color: black;
-    color: white;
+#proskills{
     display: flex;
-    margin-left: 50px;
+    background-color: cornflowerblue;
 }
-#ProSkills ul{
-    text-decoration: none;
+#proskills h1{
+    background-color: cornflowerblue;
 }
-#ProSkills h1{
-    color: wheat;
-    break-after: 
-}
-#PerSkills{
-    display: flex;
-    margin-left: 526px;
-    background-color: black;
-    color: white;
-}
-#PerSkills ul{
+#proskills ul{
     list-style: none;
-    
+    font-size: 25px;
 }
+
+
