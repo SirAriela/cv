@@ -90,14 +90,60 @@ body {
 }
 #proskills{
     display: flex;
-    background-color: cornflowerblue;
-}
-#proskills h1{
+    height: 170px;
     background-color: cornflowerblue;
 }
 #proskills ul{
     list-style: none;
     font-size: 25px;
+    font-weight: 600;
 }
+#perskills{
+     display: flex;
+    background-color: orange;
+     height: 170px;
+}
+#perskills ul{
+    list-style: none;
+    font-size: 25px;
+}
+#education{
+    background-color: antiquewhite;
+}
+#ul_education{
+    display: flex;
+}
+#ul_education h3{
+    color: cornflowerblue;
+}
+#ul_education ul{ 
+    list-style: none;
+}
+#more_info{
+    display: flex;
+}
+#hobbies{
+background-color: lightcyan;
+}
+#hobbies_content ul{
+    display:flex;
+    list-style: none;
+     justify-content: space-between;
+    white-space: pre-wrap;
+}
+#language{
+    background-color: wheat;
+    
+}
+#language_info{
+    display: flex;
+    
+}
+#language_info ul{
+  list-style: none;
+    
+}
+
+
 
 
