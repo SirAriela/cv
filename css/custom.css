@@ -93,6 +93,12 @@ body {
     height: 170px;
     background-color: cornflowerblue;
 }
+#proskills progress{
+   width: 150px;
+}
+#perskills progress{
+   width: 150px;
+}
 #proskills ul{
     list-style: none;
     font-size: 25px;
