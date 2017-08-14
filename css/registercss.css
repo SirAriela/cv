@@ -1,0 +1,82 @@
+body {
+    font-family: 'Open Sans','sans-serif';
+}
+
+#register {
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: -1xp 2xp 5xp 0xp rgba(0,0,0.75);
+   
+}
+#user_info{
+     display: flex;
+     border-bottom: 1px solid #a5a5a5;
+}
+#basic_info li{
+    list-style: none;
+    text-decoration: none; 
+}
+
+#contact_info li{
+    list-style: none;
+    text-decoration: none;
+}
+
+#about_me li{
+  list-style: none;
+  text-decoration: none;
+}
+
+#social_newtworks_data{
+   display: flex;
+}
+
+#social_newtworks_data li{
+    list-style: none;
+    text-decoration: none; 
+}
+#social_networks{
+    border-bottom: 1px solid #a5a5a5;
+}
+
+#experience_data table{
+    margin-bottom: 30px;
+    margin-left: 50px
+}
+#experience{
+    border-bottom: 1px solid #a5a5a5;
+}
+#external_data{
+    display: flex;
+}
+#external_data li{
+      list-style: none;
+  text-decoration: none;
+}
+#hobbies{
+     margin-right: 50px
+}
+#Languages{
+       margin: 0 auto;
+}
+#pro_per_skills{
+    display: flex;
+}
+
+#pro_per_skills li{
+    list-style: none;
+    text-decoration: none; 
+}
+
+#per_skills{
+    margin-left: 70px;
+}
+
+#education_data table{
+    margin-bottom: 30px;
+    margin-left: 50px
+}
+#education{
+    border-bottom: 1px solid #a5a5a5;
+}
